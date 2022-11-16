@@ -12,7 +12,7 @@ cd dbt-sandcastles
 
 ## Setup profiles.yml
 
-Configure a connection named `TODO` within your `profiles.yml`.
+Configure a profile named `incremental_precision` within your `profiles.yml`.
 
 ### Initial setup of virtual environment
 
