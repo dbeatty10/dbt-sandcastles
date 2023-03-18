@@ -1,0 +1,5 @@
+version: 2
+
+analyses:
+  - name: my_even_ids
+    description: This is an analysis
