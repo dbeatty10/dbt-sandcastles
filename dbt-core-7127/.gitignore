@@ -1,0 +1,8 @@
+
+target/
+dbt_modules/
+logs/
+env/
+venv/
+**/.DS_Store
+sandcastle.duckdb
